@@ -1,2 +1,2 @@
 # study_git
-Kate's GIT study
+Artem's GIT study

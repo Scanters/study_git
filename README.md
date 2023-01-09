@@ -1,2 +1,2 @@
 # study_git
-Kate's GIT study
+Initial Kate's GIT study.
